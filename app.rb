@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get '/' do
-  puts "Hello"
+  puts "Hel Yesslo"
   @time = Time.now
 
   erb :index

@@ -7,3 +7,7 @@ This repository has just 5 basic commits on master by three different coders, pr
 
 * Using `git log` to review simple history
 * Filtering `git log` with `--author` option
+
+## Authors
+
+Tomek Milczarek
